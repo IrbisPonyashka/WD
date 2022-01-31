@@ -6,3 +6,7 @@
     font-family: 'RB';
     src: url(../fonts/Roboto-Bold.ttf);
 }
+@font-face{
+    font-family: 'RER';
+    src: url(../fonts/Revalia-Regular.ttf);
+}
