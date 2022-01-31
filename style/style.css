@@ -65,7 +65,9 @@ ul{
     column-gap: 140px;
 }
 .header__content-rigth{
-
 }
-
 /* header end */
+.main{
+    background: #34547A;
+    height: 100vh;
+}
